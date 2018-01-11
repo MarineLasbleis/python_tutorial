@@ -1,0 +1,10 @@
+
+
+Tutorial for learning Python (very short)
+
+The goal is to provide jupyter notebooks with a very short introduction to Python, with focus on: 
+- basic pythons (how does it compares with Matlab?)
+- numpy (how to use mathematical functions and arrays)
+- matplotlib.pyplot (plot of a small data set)
+
+This tutorial is part of the EON/ELSI Winter School 2018, for graduate and post graduate students. 
