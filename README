@@ -8,3 +8,10 @@ The goal is to provide jupyter notebooks with a very short introduction to Pytho
 - matplotlib.pyplot (plot of a small data set)
 
 This tutorial is part of the EON/ELSI Winter School 2018, for graduate and post graduate students. 
+
+
+To run the notebook, open a command line, go to this folder, and then do:
+
+> jupyter notebook
+
+Then you can modify the file on your browser.  
